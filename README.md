@@ -1,5 +1,7 @@
 # Python Projects
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 A collection of Python programs I've written, focused on practical command-line tools.
 
 ---
